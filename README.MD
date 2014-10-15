@@ -4,6 +4,7 @@ Android-Libs
 
 There is a database.sql in the root directory. It will generate the frequent database.
 
+View the official page here: [Android-Libs.com] (http://android-libs.com)
 
 Get a fresh one from a Laravel 4.2 project.
 
