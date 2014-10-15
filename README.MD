@@ -2,9 +2,10 @@ Android-Libs
 ============
 [![License](http://img.shields.io/badge/license-GPL--2.0-green.svg)](http://choosealicense.com/licenses/gpl-2.0/)
 
+View the official page here: [Android-Libs.com] (http://android-libs.com)
+
 There is a database.sql in the root directory. It will generate the frequent database.
 
-View the official page here: [Android-Libs.com] (http://android-libs.com)
 
 Get a fresh one from a Laravel 4.2 project.
 
