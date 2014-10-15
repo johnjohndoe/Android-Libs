@@ -7,7 +7,7 @@ There is a database.sql in the root directory. It will generate the frequent dat
 
 Get a fresh one from a Laravel 4.2 project.
 
-Do a fresh ´composer install` in the root directory.
+Do a fresh `composer install` in the root directory.
 
 I have used several packages. Please install them and follow their installation instructions:
 * [Laravel IDE Helper Generator] (https://github.com/barryvdh/laravel-ide-helper)
