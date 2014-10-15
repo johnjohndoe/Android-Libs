@@ -4,7 +4,6 @@ Android-Libs
 
 There is a database.sql in the root directory. It will generate the frequent database.
 
-Because of my passwords and keys are stored in `/app/config/app.php` and `/app/config/database.php` I had to remove them from the repository.
 
 Get a fresh one from a Laravel 4.2 project.
 
