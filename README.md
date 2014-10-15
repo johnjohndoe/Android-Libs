@@ -1,5 +1,6 @@
 Android-Libs
 ============
+[![License](http://img.shields.io/badge/license-GPL--2.0-green.svg)](http://choosealicense.com/licenses/gpl-2.0/)
 
 There is a database.sql in the root directory. It will generate the frequent database.
 
